@@ -1,0 +1,215 @@
+    1  sudo command
+    2  sudo snap install --classic code
+    3  sudo command
+    4  sudo snap install --classic code
+    5  sudo instal-snap "code"
+    6  sudo instal-snap
+    7  sudo snap install --classic code
+    8  sudo comman
+    9  sudo snap install --classic
+   10  sudo snap install --classic code
+   11  sudo snap install code
+   12  sudo snap install code --classic
+   13  snap help refresh
+   14  sudo apt update && sudo apt upgrade -v
+   15  sudo apt install software-properties-common apt-transport-https wget
+   16  wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+   17  sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+   18  sudo apt install code
+   19  sudo apt update && sudo apt upgrade -y
+   20  npm install
+   21  sudo npm install
+   22  sudo install-npm
+   23  sudo npm apt install
+   24  sudo npm apt-get install
+   25  sudo npm-apt-get install
+   26  sudo apt install nodejs
+   27  node -v
+   28  sudo apt install npm
+   29  npm -v
+   30  npm update install
+   31  npm -v
+   32  npm update-install
+   33  npm -v
+   34  sudo npm update npm -g
+   35  npm -v
+   36  npm install -g npm@latest
+   37  sudo npm install -g npm@latest
+   38  npm -v
+   39  Do sudo npm update npm -g
+   40  npm install npm -g
+   41  npm -v
+   42  npm install -g npm
+   43  npm install
+   44  install npm
+   45  sudo apt-get remove nodejs ^node-* nodejs-*
+   46  sudo apt-get autoremove
+   47  sudo apt-get clean
+   48  sudo apt-get install nodejs
+   49  npm -v
+   50  node --version
+   51  npm --version
+   52  sudo npm install -g n
+   53  npm install -g npm
+   54  sudo apt-get remove nodejs
+   55  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh
+   56  url -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh
+   57  sudo apt install nvm
+   58  sudo apt install nodejs
+   59  sudo apt install npm
+   60  node -v
+   61  npm -v
+   62  npm install -g npm@latest
+   63  node install -g node@latest
+   64  sudo apt-get install -y npm
+   65  node --version
+   66  npm --version
+   67  sudo apt-get install -y nodejs
+   68  node -v
+   69  nodejs -v
+   70  sudo apt install build-essential
+   71  nodejs -v
+   72  sudo apt-get update nodejs
+   73  sudo apt-get nodejs update
+   74  sudo apt-get install nodejs
+   75  sudo apt-get install npm update
+   76  sudo apt-get install update npm
+   77  sudo apt-get install npm update
+   78  npm -v
+   79  node --version
+   80  npm --version
+   81  npm install -g npm
+   82  npm install -g npm update
+   83  npm apt-install npm update
+   84  npm install create-react-app
+   85  npx create-react-app diana-app
+   86  npm install create-react-app
+   87  cd Documents
+   88  cd Documentos
+   89  cd Documentos/
+   90  cd Documents/
+   91  sudo npm remove
+   92  sudo npm remove npm
+   93  sudo apt-get install --reinstall nodejs-legacy
+   94  sudo npm uninstall -g n
+   95  sudo npm cache clean -f
+   96  sudo npm install -g
+   97  sudo apt-get –purge remove code
+   98  -purge
+   99  sudo apt-get –purge remove vscode
+  100  sudo apt-get –purge remove visual studio code
+  101  sudo apt-get –purge remove visualstudiocode
+  102  sudo apt-get –purge remove vsc
+  103  sudo apt-get remove vsc
+  104  sudo apt-get remove visual studio code
+  105  sudo apt-get remove vsccode
+  106  sudo apt-get remove code
+  107  sudo apt-get install npm
+  108  npm -v
+  109  sudo apt-get –purge remove nodejs
+  110  sudo apt-get remove nodejs
+  111  sudo apt-get remove npm
+  112  sudo apt update
+  113  sudo apt upgrade
+  114  nodejs -v
+  115  npm -v
+  116  sudo apt update npm
+  117  sudo npm update  -g npm@latest
+  118  sudo rm /usr/local/bin/node
+  119  sudo rm /usr/snap/code/nodejs
+  120  sudo rm /usr/snap/code
+  121  sudo rm /diana/snap/code
+  122  sudo rm /Diana/snap/code
+  123  -v python3.10 >/dev/null && exec python3.10 "$0" "$@"
+  124  sudo 'exec' '/bin/sh' '-c' '''
+  125  command -v python3.10 >/dev/null && exec python3.10 "$0" "$@"
+  126  command -v python3.9 >/dev/null && exec python3.9 "$0" "$@"
+  127  command -v python3.8 >/dev/null && exec python3.8 "$0" "$@"
+  128  command -v python3.7 >/dev/null && exec python3.7 "$0" "$@"
+  129  command -v python3.6 >/dev/null && exec python3.6 "$0" "$@"
+  130  command -v python3 >/dev/null && exec python3 "$0" "$@"
+  131  exec python "$0" "$@"
+  132  ''' "$0" "$@"
+  133  npm --version
+  134  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh
+  135  sudo apt install nodejs
+  136  node -v
+  137  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh
+  138  Nodejs script.js
+  139  Node.js script.js
+  140  nodejs script.js
+  141  node -v
+  142  npm -v
+  143  sudo apt install nodejs
+  144  node -v
+  145  sudo apt install curl
+  146  sudo apt install source
+  147  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh
+  148  source ~/.bashrc
+  149  nvm list-remove
+  150  sudo apt install nvm
+  151  node list-remove
+  152  npm list-remove
+  153  nvm list-remove
+  154  nvm list-remote
+  155  nvm install v16.13.2
+  156  nvm list-remove
+  157  sudo apt install nvm
+  158  nvm install v14.16.1
+  159  nvm list-remove
+  160  nvm list-remote
+  161  sudo apt install npm v6.14.4
+  162  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+  163  nvm list-remote
+  164  source ~/.bashrc
+  165  nvm list-remote
+  166  nvm install v17.8.0
+  167  nodejs -v
+  168  node -v
+  169  sudo apt install npm
+  170  npm -v
+  171  cd Documents
+  172  cd Documents/
+  173  npm -v
+  174  cd documents
+  175  cd Documents
+  176  cd Documentsnpx create-react-app diana-app
+  177  sudo apt install create-react-app
+  178  sudo apt install nodejs create-react-app
+  179  sudo apt install npm create-react-app
+  180  npm -v
+  181  cd Documentsnpx create-react-app
+  182  cd Documents/
+  183  cd Documentsnpx create-react-app
+  184  ls
+  185  npx --version
+  186  npx create-react-app diana-app
+  187  cd diana-app
+  188  ls -a
+  189  cat .gitignore
+  190  npm start
+  191  git init
+  192  sudo apt install git
+  193  git init
+  194  git remote add origin https://github.com/DASM-dent/react-practice.git
+  195  git branch -M main
+  196  git init
+  197  create README.md
+  198  git create README.md
+  199  git add README.md
+  200  git commit -m "react first commit"
+  201  git commit -m "first commit"
+  202  git config --global user.email "diana@ds-mrtz.com"
+  203  git config --global diana
+  204  git config --global ds-mrtz
+  205  git config --global user.name diana
+  206  git commit -m "first commit"
+  207  git branch -M main
+  208  git push -u origin main
+  209  git remote add origin https://github.com/DASM-dent/react-practice.git
+  210  git push -u origin main
+  211  git branch -M main
+  212  git push -u origin main
+  213  history > history.txt
+  214  clear
+  215  history > history.txt
